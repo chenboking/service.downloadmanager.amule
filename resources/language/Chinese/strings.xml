@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+
+	<!-- aMule -->
+	<string id="1000">aMule</string>
+	<string id="1010">用户设置</string>
+	<string id="1022">用户名</string>
+	<string id="1023">密码</string>
+	<string id="2010">网址</string>
+	<string id="2021">允许IP段(以分号隔开)</string>
+
+</strings>

@@ -1,0 +1,5 @@
+<settings>
+    <setting id="AMULE_IP" value="*.*.*.*" />
+    <setting id="AMULE_PWD" value="openelec" />
+    <setting id="AMULE_USER" value="openelec" />
+</settings>
